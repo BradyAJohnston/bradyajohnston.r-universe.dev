@@ -1,0 +1,15 @@
+[
+  {
+    "package": "figpatch",
+    "oncran": true
+  },
+  
+  {
+    "package": "wellr",
+     "url": "https://github.com/bradyajohnston/wellr"
+  },
+  {
+    "package": "chromr",
+    "url": "https://github.com/bradyajohnston/chromr"
+  },
+]
