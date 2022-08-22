@@ -1,7 +1,8 @@
 [
   {
     "package": "figpatch",
-    "oncran": true
+    "oncran": true, 
+    "url": "https://github.com/BradyAJohnston/figpatch"
   },
   
   {
