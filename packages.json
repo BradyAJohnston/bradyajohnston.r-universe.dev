@@ -4,7 +4,11 @@
     "url": "https://github.com/BradyAJohnston/figpatch",
     "oncran": true
   },
-  
+  {
+    "package": "r3dmol", 
+    "url" : "https://github.com/swsoyee/r3dmol"
+    "oncran" : true
+  },
   {
     "package": "wellr",
     "url": "https://github.com/bradyajohnston/wellr"
