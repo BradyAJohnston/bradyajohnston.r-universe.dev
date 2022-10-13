@@ -6,7 +6,7 @@
   },
   {
     "package": "r3dmol", 
-    "url" : "https://github.com/swsoyee/r3dmol"
+    "url" : "https://github.com/swsoyee/r3dmol",
     "oncran" : true
   },
   {
