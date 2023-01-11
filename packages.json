@@ -14,6 +14,10 @@
     "url": "https://github.com/bradyajohnston/wellr"
   },
   {
+    "package": "plasmapR", 
+    "url": "https://github.com/bradyajohnston/plasmapR"
+  },
+  {
     "package": "chromr",
     "url": "https://github.com/bradyajohnston/chromr"
   }
