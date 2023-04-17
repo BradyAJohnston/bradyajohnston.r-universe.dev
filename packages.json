@@ -10,6 +10,11 @@
     "oncran" : true
   },
   {
+    "package": "crosshap", 
+    "url" : "https://github.com/jacobimarsh/crosshap",
+    "oncran" : true
+  },
+  {
     "package": "wellr",
     "url": "https://github.com/bradyajohnston/wellr"
   },
